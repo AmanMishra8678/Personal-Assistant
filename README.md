@@ -26,13 +26,16 @@ Harness the power of the internet with Aria’s advanced features:
 Provide Your IP Address: Find out your current IP address.
 
 Latest News Based on IP Address: Stay updated with news relevant to your location.
-# API : https://newsapi.org/v2/top-headlines?country=us&apiKey={YOUR_API_KEY}&category=general
+# API : 
+https://newsapi.org/v2/top-headlines?country=us&apiKey={YOUR_API_KEY}&category=general
 
 Trending Movies: Discover the latest trending movies.
-# API : https://api.themoviedb.org/3/trending/movie/day?api_key={YOUR_API_KEY}
+# API : 
+https://api.themoviedb.org/3/trending/movie/day?api_key={YOUR_API_KEY}
 
 Weather Report Based on Location: Get real-time weather updates.
-# API : https://api.openweathermap.org/data/2.5/weather?q={city}&APPID={YOUR_API_KEY}&units=metric
+# API : 
+https://api.openweathermap.org/data/2.5/weather?q={city}&APPID={YOUR_API_KEY}&units=metric
 
 Give Advice: Receive helpful advice based on general queries.
 
